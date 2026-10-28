@@ -1,0 +1,7 @@
+*.pdf
+*.png
+*.md
+
+lab1/lab1
+lab1/data/
+lab1/figures/
